@@ -30,7 +30,7 @@ Run the following commands step by step in your terminal:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/image_steganography.git
+git clone https://github.com/darshangn-lab/image_steganography.git
 cd image_steganography
 ```
 ```bash
